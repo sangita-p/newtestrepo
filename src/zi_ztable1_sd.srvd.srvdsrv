@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Def'
+define service ZI_ZTABLE1_SD {
+  expose ZI_ZTABLE1 as view1;
+}
